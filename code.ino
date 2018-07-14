@@ -15,7 +15,7 @@ int contador_cruzamentos = 0; //conta o número de faixas à deireita
 #define sensor_cruzamento 9
 
 // Controlador PID
-float Kp = 3.5;//(3.5)
+float Kp = 3.4;//(3.5)
 
 float Ki = 0.5; //1
 
